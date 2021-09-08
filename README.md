@@ -1,3 +1,3 @@
 # 159
-counting numbers of days between two dates
-maked in education purposes
+Counting numbers of days between two dates.
+Maked in education purposes
